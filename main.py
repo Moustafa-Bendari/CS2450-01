@@ -8,7 +8,7 @@ def guess_age():
     attempts = 5
     while attempts > 0:
         guess = random.randint(low, high)
-        response = input(f"{name}, are you {guess} years old?: ").lower()
+        response = input(f"{name}, are you {guess} years old? y/n: ").lower()
 
         if response == 'y':
             print(f"Hooray! {name} is {guess} years old!")
