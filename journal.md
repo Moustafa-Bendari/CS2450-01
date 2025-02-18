@@ -1,1 +1,9 @@
 Date: 1.19.25 - Subject: What I learned today. We talked about the importance of keeping an engineering journal.I will try to write in it after every class, because I am a really forgetful person. I can also see how this can be very useful, because I feel like everyone gets crazy engineering ideas but we forget them all the time, atleast thats the case for me, so writing them in journal seems like a solid idea.
+
+Date: 1.30.25 - Subject: We learned what are user stories. User stories said simply are a description of the OUTCOME of the small unit of work. Class Example: AS A world leader, I WANT a space to posture againts others, SO THAT i can achieve geo political dominance. Details: Profiles for leaders, Direct messages, Timeline/Story.
+
+Date: 2.4.25 - Subject: What are Observer Pattern. The Observer pattern is a behavioral design pattern that defines a one-to-many relationship between objects. It allows an object (known as the subject) to notify a list of dependents (observers) about changes in its state. This pattern is particularly useful in situations where a change in one object requires updating others without tightly coupling the objects. 
+
+Date: 2.6.25 - Subject: What are Flow Diagrams. A flow diagram (also called a flowchart) is a visual representation of a process, system, or algorithm using symbols and arrows to illustrate the flow of steps, decisions, and actions. The shapes and symbols include: circle = steps, round box = simple process, Diamond = decisions (if statement, yes or no), box with sideboxes = complex process ( abstract it.)
+
+Date: 2.11.25 - Subject: We learned the fundamentals of an impactful Presentation. The 3 main things that make a BIG difference in your Presentation, 1- Who's the Audience? 2-What are the Goals? 3- Follow Design Principles. Also remember the COLOR EMOTION GUIDE CHART. I am thinking of talking to my team to make the team's logo purple related to creativity, not a bad idea.  
