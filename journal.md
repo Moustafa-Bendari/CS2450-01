@@ -1,4 +1,10 @@
-Date: 1.19.25 - Subject: What I learned today. We talked about the importance of keeping an engineering journal.I will try to write in it after every class, because I am a really forgetful person. I can also see how this can be very useful, because I feel like everyone gets crazy engineering ideas but we forget them all the time, atleast thats the case for me, so writing them in journal seems like a solid idea.
+Date: 1.9.25 - Subject: What I learned today. We talked about the importance of keeping an engineering journal.I will try to write in it after every class, because I am a really forgetful person. I can also see how this can be very useful, because I feel like everyone gets crazy engineering ideas but we forget them all the time, atleast thats the case for me, so writing them in journal seems like a solid idea.
+
+Date: 1.16.25 - Subject: What is git. Git is a version control system that tracks changes in code, helps collaboration, and manages project history. Alway remember the order:
+1) git add . 
+2) git commit -m "commit message"
+3) git push 
+    
 
 Date: 1.23.25 - Subject: What is Flask. Simply: it is a light weight python framework, used for building APIs and web apps. Reminder: A framework is like a set of ready-made tools and rules that help you build something faster and easier— kind of like a Lego set for coding. Instead of starting from scratch, you get a set of prebuilt parts that you can use and customize as needed.
 
