@@ -17,6 +17,7 @@ Date: 2.20.25 - Subject: Using Git Branches:
 or combined into
 
 3. git checkout -b <branch> # to create and switch into that branch.
+
 Steps after you are in the branch:
 1) Do your thing (Edit files)
 2) git add .
