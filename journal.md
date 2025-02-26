@@ -11,10 +11,12 @@ Date: 2.6.25 - Subject: What are Flow Diagrams. A flow diagram (also called a fl
 Date: 2.11.25 - Subject: We learned the fundamentals of an impactful Presentation. The 3 main things that make a BIG difference in your Presentation, 1- Who's the Audience? 2-What are the Goals? 3- Follow Design Principles. Also remember the COLOR EMOTION GUIDE CHART. I am thinking of talking to my team to make the team's logo purple related to creativity, not a bad idea.
 
 Date: 2.20.25 - Subject: Using Git Branches:
-git branch <branch>  # Create a new branch
-git checkout <branch>  # Switch to that branch
+1. git branch <branch>  # Create a new branch,
+2. git checkout <branch>  # Switch to that branch
+
 or combined into
-git checkout -b <branch> # to create and switch into that branch
+
+3. git checkout -b <branch> # to create and switch into that branch,
 Steps after you are in the branch:
 1) Do your thing (Edit files)
 2) git add .
