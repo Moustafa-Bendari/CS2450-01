@@ -42,5 +42,10 @@ Date: 2.25.25 - Subject: The Software Development Process (How Software Engineer
 9. The Scrum Master (or an authorized reviewer) merges the pull request.
 10. The issue is officially marked as "Done."
 
-
-
+Date: 3.4.25 - Subject: Ethics. 
+Things to remember:  
+1. Where is your line? (e.g., working for companies whose business models you may disagree with, working for the military, ethical hacking, etc.)
+2. Remember to Consider:
+Intent vs. Consequence, 
+Exploitation vs. Entertainment, 
+Personal vs. Professional Ethics
