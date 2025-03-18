@@ -53,3 +53,9 @@ Personal vs. Professional Ethics
 Date: 3.6.25 - Subject: User Experience
 -Barriers: Security vs Usability, Ease/Cost of development vs Usability, Application Requirements/ Shortcomings vs Usability, Complexity of the Task vs Usability.  
 -Steps: 1.Ideation(What does the user want to do? Why?)  2.Story Board(What's the flow?) 3.Wireframes(Low-fidelity sketches of layout) 4.Prototype(This is a cycle: Build something, User Testing, feedback, re-do) 5.Development(More user Testing)
+
+Date: 3.18.25 - Subject: Software Quality. 
+Key Takeways:
+1. you must have a quality mindset - quality must be built in from the ground up
+2. Developers are the primary responsible party to ensure they build QUALITY software.
+3. You are never 100%.
