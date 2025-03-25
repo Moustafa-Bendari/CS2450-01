@@ -59,3 +59,9 @@ Key Takeways:
 1. you must have a quality mindset - quality must be built in from the ground up
 2. Developers are the primary responsible party to ensure they build QUALITY software.
 3. You are never 100%.
+
+Date: 3.25.25 - Subject: Refactoring - Benefits:
+1. Maintainability: Readability, Extensibility, Easier to test.
+2. Re-usability: Interfaces, Generic Code, Clear functionality.
+3. Preformance: Efficient Code.
+4. Cost Reduction: Maintenance, Testing, Fewer.
