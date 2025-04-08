@@ -65,3 +65,8 @@ Date: 3.25.25 - Subject: Refactoring - Benefits:
 2. Re-usability: Interfaces, Generic Code, Clear functionality.
 3. Preformance: Efficient Code.
 4. Cost Reduction: Maintenance, Testing, Fewer.
+
+Date: 4.1.25 - Subject:CI/CD Pipeline
+
+   ![CI/CD Pipeline ](https://dancerscode.com/content/2019/ci-cd-pipeline.png)
+   
