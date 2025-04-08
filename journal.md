@@ -69,4 +69,5 @@ Date: 3.25.25 - Subject: Refactoring - Benefits:
 Date: 4.1.25 - Subject:CI/CD Pipeline
 
    ![CI/CD Pipeline ](https://dancerscode.com/content/2019/ci-cd-pipeline.png)
-   
+
+![CI/CD Environments ](https://miro.medium.com/v2/resize:fit:1358/1*_70b_irEqbd5d3bDcP2rBg.png)
