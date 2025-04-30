@@ -77,3 +77,5 @@ Date: 4.1.25 - Subject:CI/CD Pipeline
 Date: 4.15.2025 - Subject: Security Considerations
 
 ![Security Considerations](https://phishgrid.com/wp-content/uploads/sites/24/2023/10/268797372_3134054720247926_2760360912807567593_-1536x1417.jpg)
+
+Finished the semester yay HAGS
